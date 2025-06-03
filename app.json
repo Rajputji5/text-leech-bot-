@@ -1,6 +1,6 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
-    "description": "TEXT-LEECH-BOT-v1.3 by Ashutosh Goswami 24",
+    "name": "𝐓𝐇𝐀𝐊𝐔𝐑 𝐒𝐀𝐇𝐀𝐁❤️",
+    "description": "TEXT-LEECH-BOT-v1.3 by THAKUR SAHAB ",
     "logo": "https://opengraph.githubassets.com/l5syizx9jilr4mcfzku9rdwvomyj48b7/AshutoshGoswami24/text-leech-bot",
     "keywords": [
         "text-video",
@@ -12,11 +12,11 @@
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "23480065",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "32edb7d7fc1523b436109bff8ea061fc",
             "required": true
         },
         "BOT_TOKEN": {
